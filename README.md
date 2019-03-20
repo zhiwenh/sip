@@ -1,6 +1,6 @@
 # Sip!
 
-<img alt="logo" style="margin: 0 auto; float: left" src="./assets/img/SipLogo_01.png" width="400"/>
+<img alt="logo" style="margin: 0 auto; float: left" src="./assets/img/SipLogo_01.png" width="200"/>
 
 Tailor your own gulpfile or webpack file with this web-based generator, and receive a scaffolded project directory which includes either the gulpfile or webpack file that you configured.
 
